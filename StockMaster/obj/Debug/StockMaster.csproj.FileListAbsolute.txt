@@ -1,0 +1,12 @@
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\bin\Debug\StockMaster.exe.config
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\bin\Debug\StockMaster.exe
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\bin\Debug\StockMaster.pdb
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.csprojAssemblyReference.cache
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.Form1.resources
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.Properties.Resources.resources
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.csproj.GenerateResource.cache
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.csproj.CoreCompileInputs.cache
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.exe
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.pdb
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.Form2.resources
+C:\Users\ARTURIO\source\repos\StockMaster\StockMaster\obj\Debug\StockMaster.Form3.resources
